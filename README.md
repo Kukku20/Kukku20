@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kukku20
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Programming and Full Stack Development
+- 🌱 I’m currently working as an INTERN DATA SCIENTIST, focus on Generative AI
+- ✨ Check out my router project which i am currently working on
 - 📫 How to reach me kukkuyouseff@gmaail.com
 
 <!---
